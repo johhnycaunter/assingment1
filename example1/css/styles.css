@@ -1,0 +1,221 @@
+/*johnny caunter 9765 */
+html{
+    
+    font : italic small-caps bold 20px/1.5 Verdana, Arial, Helvetica, sans-serif ;
+    font-variant : normal;
+    font-style : normal;
+    font-family : monospace;
+    
+
+     color : rgb(196, 25, 25); 
+}
+body{
+
+    width : 100%; 
+    max-width : 1200px;
+    margin : auto; 
+    padding : 0.25rem; 
+
+  
+
+}
+
+p{
+    color : #fa0000;
+}
+
+h2{
+    color: rgb(237, 9, 9); 
+}
+
+
+p{
+    color : rgba(255, 99, 71, 0.5);
+}
+
+p{
+    color : hsl(352, 86%, 36%);
+}
+
+p{
+    color : hsla(9, 100%, 64%, 0.6);
+}
+
+
+h1{
+    color : red !important; 
+    text-align: center;
+
+}
+
+h1{
+    color : blue; 
+}
+
+#video{
+    font-size : 10px;
+}
+
+iframe, video{
+  
+    width : 100%;
+    height : 100%;
+    height : 40em; 
+}
+
+main p{
+    color : blue;
+}
+
+h2 ~ p{
+    color : red;
+}
+
+h2 + p{
+    color : red;
+}
+
+h2, h6, #span-h, .red-p, footer p{
+
+    color : hsl(0, 97%, 29%);
+
+}
+
+#section1 p{
+    color : hsl(0, 97%, 29%);
+}
+
+
+section {
+    background-color:  hsla(147, 40%, 90%, 0.1); 
+}
+section {
+    background-color: rgba(252, 252, 252, 0.1); 
+}
+section{ 
+    background :hsl(247, 100%, 50%); 
+}
+
+header{
+   
+    background-image: linear-gradient(red 20%, black, blue 80%) !important;
+   
+    margin-top : 1rem;
+    margin-bottom : 1rem;
+    
+    margin-left : .5rem;
+    margin-right : 1.5rem;
+    margin : 1rem 1.5rem 1rem .5rem;
+    margin : 1rem 1.5rem;
+   
+    margin : 1rem 1.5rem .5rem;
+    margin : 1rem;
+ 
+    padding-top : 1rem;
+    padding-bottom : 1rem;
+    padding-left : .5rem;
+    padding-right : 1.5rem;
+    padding : 1rem 1.5rem 1rem .5rem;
+    padding : 1rem 1.5rem;
+   
+    padding : 1rem 1.5rem .5rem;
+    padding : 1rem;
+    
+    border-style : dashed;
+    border-bottom-style : solid;
+    border-width : .25rem; 
+    border-bottom-width: .5rem; 
+    border-color :black; 
+    border-top-color : white; 
+
+    border : 1rem solid black;
+    border-radius : 1rem;
+   
+
+}
+.main-section-figure{
+   
+   border-radius : 1rem;
+   text-align: center; 
+  
+
+}
+#relative-path-image{
+    background-color: rgb(109, 0, 4);
+    border : .25rem solid rgb(2, 2, 102); 
+    color :rgb(0, 0, 255);
+}
+#absolute-path-image{
+    background-color: rgb(109, 0, 4);
+    border : .25rem solid rgb(2, 2, 102); 
+    color : blue;
+}
+.main-section-figure img{
+    width : 80%;
+    height : 90%;
+    padding : .5rem;
+    border-radius : 1rem; 
+   
+}
+main {
+    margin-top : 2rem;
+   
+}
+#quote{
+    
+    border : .5rem solid rgb(174, 10, 10);
+    
+    box-shadow: 10px 10px 8px black;
+    
+    box-shadow: 10px 10px;
+    box-shadow: 10px 10px rgb(8, 26, 220);
+    box-shadow: 10px 10px 5px rgb(5, 11, 164);
+    box-shadow: 10px 10px 5px 12px rgb(25, 2, 100); 
+    
+}
+
+footer{
+    text-align: center;
+    
+    background-image: linear-gradient(red 20%, black, blue 80%) !important;
+   
+
+    
+    margin-top : 1rem;
+    margin-bottom : 1rem;
+    
+    margin-left : .5rem;
+    margin-right : 1.5rem;
+    margin : 1rem 1.5rem 1rem .5rem;
+    margin : 1rem 1.5rem;
+   
+    margin : 1rem 1.5rem .5rem;
+    margin : 1rem;
+ 
+    padding-top : 1rem;
+    padding-bottom : 1rem;
+    padding-left : .5rem;
+    padding-right : 1.5rem;
+    padding : 1rem 1.5rem 1rem .5rem;
+    padding : 1rem 1.5rem;
+   
+    padding : 1rem 1.5rem .5rem;
+    padding : 1rem;
+   
+    border-style : dashed;
+    border-bottom-style : solid;/
+    border-width : .25rem; 
+    border-bottom-width: .5rem; 
+    border-color :black; 
+    border-top-color : white; 
+
+    border : 1rem solid black;
+    border-radius : 1rem;
+   
+
+}
+
+
+
+
+
